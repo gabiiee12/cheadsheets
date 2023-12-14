@@ -1,1 +1,59 @@
+# Mi Hoja de Trucos de Markdown
+Encabezados.
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+Estilos de texto.
+```
+Bold
+**El rápido zorro marrón salta sobre el perro perezoso.**
+__El rápido zorro marrón salta sobre el perro perezoso.__
+<strong>El rápido zorro marrón salta sobre el perro perezoso..</strong>
+Italic
+*El rápido zorro marrón salta sobre el perro perezoso.*
+_El rápido zorro marrón salta sobre el perro perezoso._
+<em>El rápido zorro marrón salta sobre el perro perezoso.</em>
+Bold y Italic
+**_El rápido zorro marrón salta sobre el perro perezoso._**
+<strong><em>El rápido zorro marrón salta sobre el perro perezoso.</em></strong>
+```
+Formatos en el texto.
+Resaltar.
+I need to highlight these ==very important words==.
+Tachar.
+~~The world is flat.~~
 
+Enlaces. 
+[title](https://www.example.com)
+
+Pie de página
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+Tablas.
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+Imágenes.
+![alt text](image.jpg)
+
+Emoji.
+That is so funny! :joy:
+
+Listas ordenadas.
+1. First item
+2. Second item
+3. Third item
+
+Listas no ordenadas.
+- First item
+- Second item
+- Third item
+
+Líneas horizontales.
+---
