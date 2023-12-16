@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<head> <style> </style><link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+    <h1> <b> Mi Hoja de Trucos de HTML </b> </h1> </head>
 
+<body> <h2> Estructura de un documento HTML </h2>
+<h2> <b> Etiquetas </b> </h2>
+Son bloques de código con apertura y cierre que indican  navegador cómo interpretar el contenido que contienen las etiquetas y hay varias, como a continuación se presentan algunas.
+
+<h3> Encabezados </h3>
+va desde el h1 al h6, según el tamaño del encabezado
+<h2> Propiedades de texto </h2>
+<li>
+Se puede poner en negritas las <b> palabras </b>
+</li>
+<li> Se pueden subyarar las <mark> mismas</mark> también hay otro tipo de <u> subrayado </u>
+<li> Si algo ya no nos sirve, podemos tachar la <s> frase </s>
+</li>
+<li> Se puede poner <i> italika </i> las palabras </li>
+
+<h2> Imágenes </h2>
+<img src="https://test.com/images/imagen.png" alt="imagen test" height="300px" weight="300px">
+
+<h3> Listas </h3>
+<ul> tenemos listas ordenadas </ul>
+<ul> tenemos también listas no ordenadas </ul>
+
+<h3> Tablas </h3>
+<table> aquí podemos insertar alguna tabla </table>
+<tbody> <row> algunas cosas </row>
+
+<row> nada </row> 
+<row> muchas cosas </row> 
+<colgroup> o ponemos algunas columnas</colgroup>
+
+</tbody>
+
+<h3> Pie de página </h3>
+<footer> aquí podemos poner la referencia a alguna cita del texto que hayamos puesto </footer>
+<hr> 
+¡gracias! 
+</hr>
+
+</body>
+</style>
+</html>
